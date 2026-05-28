@@ -1,0 +1,68 @@
+C:\Users\slind\source\repos\WindowsFormsApp43\WindowsFormsApp43\bin\Debug\WindowsFormsApp43.exe.config
+C:\Users\slind\source\repos\WindowsFormsApp43\WindowsFormsApp43\bin\Debug\WindowsFormsApp43.exe
+C:\Users\slind\source\repos\WindowsFormsApp43\WindowsFormsApp43\bin\Debug\WindowsFormsApp43.pdb
+C:\Users\slind\source\repos\WindowsFormsApp43\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.csproj.AssemblyReference.cache
+C:\Users\slind\source\repos\WindowsFormsApp43\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.csproj.SuggestedBindingRedirects.cache
+C:\Users\slind\source\repos\WindowsFormsApp43\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.Form1.resources
+C:\Users\slind\source\repos\WindowsFormsApp43\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.Properties.Resources.resources
+C:\Users\slind\source\repos\WindowsFormsApp43\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.csproj.GenerateResource.cache
+C:\Users\slind\source\repos\WindowsFormsApp43\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.csproj.CoreCompileInputs.cache
+C:\Users\slind\source\repos\WindowsFormsApp43\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.exe
+C:\Users\slind\source\repos\WindowsFormsApp43\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.pdb
+C:\Users\27795\Documents\APDJ Phase 1 Project\WindowsFormsApp43\WindowsFormsApp43\WindowsFormsApp43\bin\Debug\WindowsFormsApp43.exe.config
+C:\Users\27795\Documents\APDJ Phase 1 Project\WindowsFormsApp43\WindowsFormsApp43\WindowsFormsApp43\bin\Debug\WindowsFormsApp43.exe
+C:\Users\27795\Documents\APDJ Phase 1 Project\WindowsFormsApp43\WindowsFormsApp43\WindowsFormsApp43\bin\Debug\WindowsFormsApp43.pdb
+C:\Users\27795\Documents\APDJ Phase 1 Project\WindowsFormsApp43\WindowsFormsApp43\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.csproj.AssemblyReference.cache
+C:\Users\27795\Documents\APDJ Phase 1 Project\WindowsFormsApp43\WindowsFormsApp43\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.csproj.SuggestedBindingRedirects.cache
+C:\Users\27795\Documents\APDJ Phase 1 Project\WindowsFormsApp43\WindowsFormsApp43\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.Form1.resources
+C:\Users\27795\Documents\APDJ Phase 1 Project\WindowsFormsApp43\WindowsFormsApp43\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.Properties.Resources.resources
+C:\Users\27795\Documents\APDJ Phase 1 Project\WindowsFormsApp43\WindowsFormsApp43\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.csproj.GenerateResource.cache
+C:\Users\27795\Documents\APDJ Phase 1 Project\WindowsFormsApp43\WindowsFormsApp43\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.csproj.CoreCompileInputs.cache
+C:\Users\27795\Documents\APDJ Phase 1 Project\WindowsFormsApp43\WindowsFormsApp43\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.exe
+C:\Users\27795\Documents\APDJ Phase 1 Project\WindowsFormsApp43\WindowsFormsApp43\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.pdb
+C:\Users\Nhlonipho\Downloads\APDJ Phase 1 Project\APDJ Phase 1 Project\WindowsFormsApp43\WindowsFormsApp43\bin\Debug\WindowsFormsApp43.exe.config
+C:\Users\Nhlonipho\Downloads\APDJ Phase 1 Project\APDJ Phase 1 Project\WindowsFormsApp43\WindowsFormsApp43\bin\Debug\WindowsFormsApp43.exe
+C:\Users\Nhlonipho\Downloads\APDJ Phase 1 Project\APDJ Phase 1 Project\WindowsFormsApp43\WindowsFormsApp43\bin\Debug\WindowsFormsApp43.pdb
+C:\Users\Nhlonipho\Downloads\APDJ Phase 1 Project\APDJ Phase 1 Project\WindowsFormsApp43\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.csproj.AssemblyReference.cache
+C:\Users\Nhlonipho\Downloads\APDJ Phase 1 Project\APDJ Phase 1 Project\WindowsFormsApp43\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nhlonipho\Downloads\APDJ Phase 1 Project\APDJ Phase 1 Project\WindowsFormsApp43\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.Form1.resources
+C:\Users\Nhlonipho\Downloads\APDJ Phase 1 Project\APDJ Phase 1 Project\WindowsFormsApp43\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.Properties.Resources.resources
+C:\Users\Nhlonipho\Downloads\APDJ Phase 1 Project\APDJ Phase 1 Project\WindowsFormsApp43\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.csproj.GenerateResource.cache
+C:\Users\Nhlonipho\Downloads\APDJ Phase 1 Project\APDJ Phase 1 Project\WindowsFormsApp43\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.csproj.CoreCompileInputs.cache
+C:\Users\Nhlonipho\Downloads\APDJ Phase 1 Project\APDJ Phase 1 Project\WindowsFormsApp43\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.exe
+C:\Users\Nhlonipho\Downloads\APDJ Phase 1 Project\APDJ Phase 1 Project\WindowsFormsApp43\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.pdb
+C:\Users\27725\Documents\APDJ Phase 1 Project (2)\APDJ Phase 1 Project\APDJ Phase 1 Project\WindowsFormsApp43\WindowsFormsApp43\bin\Debug\WindowsFormsApp43.exe.config
+C:\Users\27725\Documents\APDJ Phase 1 Project (2)\APDJ Phase 1 Project\APDJ Phase 1 Project\WindowsFormsApp43\WindowsFormsApp43\bin\Debug\WindowsFormsApp43.exe
+C:\Users\27725\Documents\APDJ Phase 1 Project (2)\APDJ Phase 1 Project\APDJ Phase 1 Project\WindowsFormsApp43\WindowsFormsApp43\bin\Debug\WindowsFormsApp43.pdb
+C:\Users\27725\Documents\APDJ Phase 1 Project (2)\APDJ Phase 1 Project\APDJ Phase 1 Project\WindowsFormsApp43\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.csproj.AssemblyReference.cache
+C:\Users\27725\Documents\APDJ Phase 1 Project (2)\APDJ Phase 1 Project\APDJ Phase 1 Project\WindowsFormsApp43\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.csproj.SuggestedBindingRedirects.cache
+C:\Users\27725\Documents\APDJ Phase 1 Project (2)\APDJ Phase 1 Project\APDJ Phase 1 Project\WindowsFormsApp43\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.Form1.resources
+C:\Users\27725\Documents\APDJ Phase 1 Project (2)\APDJ Phase 1 Project\APDJ Phase 1 Project\WindowsFormsApp43\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.Form2.resources
+C:\Users\27725\Documents\APDJ Phase 1 Project (2)\APDJ Phase 1 Project\APDJ Phase 1 Project\WindowsFormsApp43\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.Properties.Resources.resources
+C:\Users\27725\Documents\APDJ Phase 1 Project (2)\APDJ Phase 1 Project\APDJ Phase 1 Project\WindowsFormsApp43\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.csproj.GenerateResource.cache
+C:\Users\27725\Documents\APDJ Phase 1 Project (2)\APDJ Phase 1 Project\APDJ Phase 1 Project\WindowsFormsApp43\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.csproj.CoreCompileInputs.cache
+C:\Users\27725\Documents\APDJ Phase 1 Project (2)\APDJ Phase 1 Project\APDJ Phase 1 Project\WindowsFormsApp43\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.exe
+C:\Users\27725\Documents\APDJ Phase 1 Project (2)\APDJ Phase 1 Project\APDJ Phase 1 Project\WindowsFormsApp43\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.pdb
+C:\Users\27725\Documents\APDJ Phase 1 Project (Updated)\WindowsFormsApp43\WindowsFormsApp43\bin\Debug\WindowsFormsApp43.exe.config
+C:\Users\27725\Documents\APDJ Phase 1 Project (Updated)\WindowsFormsApp43\WindowsFormsApp43\bin\Debug\WindowsFormsApp43.exe
+C:\Users\27725\Documents\APDJ Phase 1 Project (Updated)\WindowsFormsApp43\WindowsFormsApp43\bin\Debug\WindowsFormsApp43.pdb
+C:\Users\27725\Documents\APDJ Phase 1 Project (Updated)\WindowsFormsApp43\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.csproj.AssemblyReference.cache
+C:\Users\27725\Documents\APDJ Phase 1 Project (Updated)\WindowsFormsApp43\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.csproj.SuggestedBindingRedirects.cache
+C:\Users\27725\Documents\APDJ Phase 1 Project (Updated)\WindowsFormsApp43\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.Form1.resources
+C:\Users\27725\Documents\APDJ Phase 1 Project (Updated)\WindowsFormsApp43\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.Form2.resources
+C:\Users\27725\Documents\APDJ Phase 1 Project (Updated)\WindowsFormsApp43\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.Properties.Resources.resources
+C:\Users\27725\Documents\APDJ Phase 1 Project (Updated)\WindowsFormsApp43\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.csproj.GenerateResource.cache
+C:\Users\27725\Documents\APDJ Phase 1 Project (Updated)\WindowsFormsApp43\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.csproj.CoreCompileInputs.cache
+C:\Users\27725\Documents\APDJ Phase 1 Project (Updated)\WindowsFormsApp43\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.exe
+C:\Users\27725\Documents\APDJ Phase 1 Project (Updated)\WindowsFormsApp43\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.pdb
+C:\Users\MSI\Pictures\APDJ Phase 1 Project (Updated)\WindowsFormsApp43\WindowsFormsApp43\bin\Debug\WindowsFormsApp43.exe.config
+C:\Users\MSI\Pictures\APDJ Phase 1 Project (Updated)\WindowsFormsApp43\WindowsFormsApp43\bin\Debug\WindowsFormsApp43.exe
+C:\Users\MSI\Pictures\APDJ Phase 1 Project (Updated)\WindowsFormsApp43\WindowsFormsApp43\bin\Debug\WindowsFormsApp43.pdb
+C:\Users\MSI\Pictures\APDJ Phase 1 Project (Updated)\WindowsFormsApp43\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.csproj.AssemblyReference.cache
+C:\Users\MSI\Pictures\APDJ Phase 1 Project (Updated)\WindowsFormsApp43\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.Form1.resources
+C:\Users\MSI\Pictures\APDJ Phase 1 Project (Updated)\WindowsFormsApp43\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.Form2.resources
+C:\Users\MSI\Pictures\APDJ Phase 1 Project (Updated)\WindowsFormsApp43\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.Properties.Resources.resources
+C:\Users\MSI\Pictures\APDJ Phase 1 Project (Updated)\WindowsFormsApp43\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.csproj.GenerateResource.cache
+C:\Users\MSI\Pictures\APDJ Phase 1 Project (Updated)\WindowsFormsApp43\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Pictures\APDJ Phase 1 Project (Updated)\WindowsFormsApp43\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.exe
+C:\Users\MSI\Pictures\APDJ Phase 1 Project (Updated)\WindowsFormsApp43\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.pdb
