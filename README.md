@@ -57,6 +57,39 @@ The system allows users to:
 
 ---
 
+## ▶️ Installation and Setup Instructions
+
+### Requirements
+
+Before running the project, make sure you have the following installed:
+
+* Visual Studio
+* .NET Framework
+* SQL Server LocalDB
+
+### Steps to Run the Application
+
+1. Download or extract the project files.
+2. Open the solution file in Visual Studio.
+3. Restore NuGet packages if prompted.
+4. Ensure SQL Server LocalDB is installed and running.
+5. Open the project database connection settings if needed.
+6. Build the solution using:
+
+```bash
+Ctrl + Shift + B
+```
+
+7. Run the application by pressing:
+
+```bash
+F5
+```
+
+8. The login form will appear and the application will be ready to use.
+
+---
+
 ## 📚 Educational Value
 
 This project is ideal for:
